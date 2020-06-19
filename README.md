@@ -14,6 +14,8 @@
 
 ### 项目安装
 
-直接下载WampServer，然后简单设置即可运行
+1. 直接下载WampServer
+2. MySQL运行newsSys.sql (建库文件)
+3. 运行test_data.sql (测试数据)
 
 #### 如果喜欢请点个star 😁✨
